@@ -1,0 +1,120 @@
+//Import Variables
+@import "variables";
+
+//Import Mixins
+@import "mixins";
+
+/*
+    Theme Name: Genesis Base Theme
+    Description: This is the base template for all Three Stirrups genesis themes
+    Author: ThreeStirrups
+    Author URI: http://www.threestirrups.com/
+    Version: 1.0.0
+
+    License: GPL-2.0+
+    License URI: http://www.opensource.org/licenses/gpl-license.php
+*/
+
+/* Table of Contents
+
+    - HTML5 Reset
+        - Baseline Normalize
+        - Box Sizing
+        - Float Clearing
+    - Defaults
+        - Typographical Elements
+        - Headings
+        - Objects
+        - Forms
+        - Tables
+    - Structure & Layout
+        - Site Containers
+        - Column Widths and Positions
+        - Column Classes
+    - Common Classes
+        - WordPress
+        - Genesis
+        - Titles
+    - Widgets
+        - Featured Content
+    - Plugins
+        - Genesis eNews Extended
+        - Genesis Latest Tweets
+        - Gravity Forms
+        - Jetpack
+    - Site Header
+        - Title Area
+        - Widget Area
+    - Site Navigation
+        - Header Navigation
+        - Primary Navigation
+        - Secondary Navigation
+    - Content Area
+        - Entries
+        - Pagination
+        - Comments
+    - Sidebars
+    - Footer Widgets
+    - Site Footer
+    - Responsive
+        - max-width: 1139px
+        - max-width: 1023px
+        - max-width: 767px
+
+*/
+
+
+/* HTML5 Reset
+=====================================================================================================*/
+@import "reset";
+
+/* Defaults
+=====================================================================================================*/
+@import "defaults";
+
+/* Structure & Layout
+=====================================================================================================*/
+@import "structure";
+
+/* Common Classes
+=====================================================================================================*/
+@import "common";
+
+/* Widgets
+=====================================================================================================*/
+@import "widgets";
+
+/* Plugins
+=====================================================================================================*/
+@import "plugins";
+
+/* Site Header
+=====================================================================================================*/
+@import "header";
+
+/* Site Navigation
+=====================================================================================================*/
+@import "navigation";
+
+/* Content Area
+=====================================================================================================*/
+@import "content";
+
+/* Sidebars
+=====================================================================================================*/
+@import "sidebars";
+
+/* Footer Widgets
+=====================================================================================================*/
+@import "footerwidgets";
+
+/* Site Footer
+=====================================================================================================*/
+@import "footer";
+
+/* Responsive
+=====================================================================================================*/
+@import "responsive";
+
+
+
